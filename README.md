@@ -1,2 +1,1 @@
-# URL-Shortener
-A tool to shorten a URL or reduce a link
+# [URL Shortener Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/url-shortener-microservice)
